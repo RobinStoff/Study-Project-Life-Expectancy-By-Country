@@ -1,3 +1,42 @@
+📈 How Wealth Shapes Life Expectancy Around the World
+
+Life expectancy is one of the simplest ways to measure the quality of life in a country. But does money actually matter? To find out, I analyzed a dataset containing the life expectancy of 158 countries, along with their GDP — a common measure of national wealth.
+
+What the Data Shows
+
+When we divide countries into low-GDP and high-GDP groups, the difference becomes immediately clear.
+
+High-GDP countries cluster around 75–82 years, with relatively little variation.
+
+Low-GDP countries range widely, often between 50–70 years, with much more spread and instability.
+
+When plotting the distributions together, the contrast is unmistakable: the two histograms barely overlap. Economic strength appears strongly linked to public health, infrastructure, medical access, and long-term survival.
+
+A Closer Look
+
+To test this, I looked at quartiles:
+
+The median life expectancy of high-GDP countries was dramatically higher.
+
+A life expectancy of 70 years is:
+
+Low (1st quartile) for high-GDP countries
+
+High (4th quartile) for low-GDP countries
+
+This tells us something important:
+The same number means completely different things depending on the economic context.
+
+Why It Matters
+
+These insights remind us that global health is deeply tied to economic stability. As countries develop and GDP grows, life expectancy tends to rise with it. Understanding these patterns helps governments, NGOs, and researchers make targeted health interventions.
+
+Final Thoughts
+
+Wealth isn’t everything, but in this dataset, it has a clear connection with how long people live.
+Richer countries live longer — and more consistently.
+
+✅ 3. README / Technical Project Summary (voor GitHub Portfolio)
 📊 Life Expectancy by Country — Data Analysis Project
 Project Overview
 
