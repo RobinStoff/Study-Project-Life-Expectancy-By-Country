@@ -1,3 +1,9 @@
+<img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/7f41fa30-bb77-4a37-9777-388bbfbe9ee0" />
+
+
+
+
+
 📈 How Wealth Shapes Life Expectancy Around the World
 
 Life expectancy is one of the simplest ways to measure the quality of life in a country. But does money actually matter? To find out, I analyzed a dataset containing the life expectancy of 158 countries, along with their GDP — a common measure of national wealth.
